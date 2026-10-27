@@ -1,0 +1,269 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.3",
+  "creationInfo": {
+    "created": "2026-10-27T15:22:28Z",
+    "creators": [
+      "Organization: NXP"
+    ],
+    "licenseListVersion": "3.28"
+  },
+  "name": "robotics-am32-bootloader-0.7.0",
+  "dataLicense": "CC0-1.0",
+  "documentNamespace": "https://nxp.com/spdx/8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "name": "robotics-am32-bootloader",
+      "versionInfo": "0.7.0",
+      "licenseConcluded": "(GPL-3.0-only)",
+      "licenseDeclared": "(GPL-3.0-only)",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: NXP",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---b9f57b13-a11e-4f4a-8753-790fb91ca102",
+      "name": "AlkaMotors/AM32-MultiRotor-ESC-firmware",
+      "versionInfo": "v2.01",
+      "licenseConcluded": "GPL-3.0-only",
+      "licenseDeclared": "GPL-3.0-only",
+      "homepage": "https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---33e7f42e-6a37-4176-a586-ca92ed57fc2c",
+      "name": "ArteryTek/AT32F415_Firmware_Library",
+      "versionInfo": "v2.0.7",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "BSD-3-Clause",
+      "homepage": "https://github.com/ArteryTek/AT32F415_Firmware_Library",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---c7323ee2-2e42-4c86-a26b-9bac5ce47996",
+      "name": "ArteryTek/AT32F421_Firmware_Library",
+      "versionInfo": "v2.0.8",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "homepage": "https://github.com/ArteryTek/AT32F421_Firmware_Library",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---f872a562-49f7-464f-a9a6-2ceb45966850",
+      "name": "CMSIS_5",
+      "versionInfo": "5.9.0",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "homepage": "https://github.com/ARM-software/CMSIS_5",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---5ace0c2a-43e4-4833-ae4f-5e7c10ea51f3",
+      "name": "STMicroelectronics/cmsis-device-f0",
+      "versionInfo": "v2.3.8",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "Apache-2.0",
+      "homepage": "https://github.com/STMicroelectronics/cmsis-device-f0",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---8b29e67b-d995-443c-99bd-df836f4c5bee",
+      "name": "STMicroelectronics/cmsis-device-g0",
+      "versionInfo": "v1.4.5",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "homepage": "https://github.com/STMicroelectronics/cmsis-device-g0",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---e849bc9b-b2cf-4d77-852a-cc4fc573dc80",
+      "name": "STMicroelectronics/cmsis-device-g4",
+      "versionInfo": "v1.2.6",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "homepage": "https://github.com/STMicroelectronics/cmsis-device-g4",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---c6c32215-4abf-4eff-9085-82a281494494",
+      "name": "STMicroelectronics/cmsis-device-l4",
+      "versionInfo": "v1.7.5",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "homepage": "https://github.com/STMicroelectronics/cmsis-device-l4",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---b49316ca-92ec-4d7c-8444-895c72fd10fb",
+      "name": "STMicroelectronics/STM32CubeL4",
+      "versionInfo": "v1.18.2",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "(Apache-2.0 AND BSD-3-Clause AND MIT)",
+      "homepage": "https://github.com/STMicroelectronics/STM32CubeL4",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---62d1bc5f-8d9d-4e6d-9528-5ac501dfdb6d",
+      "name": "STMicroelectronics/stm32f0xx-hal-driver",
+      "versionInfo": "v1.7.9",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "homepage": "https://github.com/STMicroelectronics/stm32f0xx-hal-driver",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---8d7ac7d6-f471-4808-91f2-66d47a376fd9",
+      "name": "STMicroelectronics/stm32g0xx-hal-driver",
+      "versionInfo": "v1.4.7",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "BSD-3-Clause",
+      "homepage": "https://github.com/STMicroelectronics/stm32g0xx-hal-driver",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---97b45a18-ddc0-4f76-917f-ac839abceffc",
+      "name": "STMicroelectronics/stm32g4xx-hal-driver",
+      "versionInfo": "v1.2.7",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "BSD-3-Clause",
+      "homepage": "https://github.com/STMicroelectronics/stm32g4xx-hal-driver",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    },
+    {
+      "SPDXID": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---8bda8113-b091-45b8-98e7-5aa977d5d835",
+      "name": "STMicroelectronics/stm32l4xx-hal-driver",
+      "versionInfo": "v1.13.6",
+      "licenseConcluded": "BSD-3-Clause",
+      "licenseDeclared": "NOASSERTION",
+      "homepage": "https://github.com/STMicroelectronics/stm32l4xx-hal-driver",
+      "downloadLocation": "NOASSERTION",
+      "originator": "Organization: unknown",
+      "supplier": "NOASSERTION",
+      "externalRefs": [],
+      "filesAnalyzed": false
+    }
+  ],
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-DOCUMENT",
+      "relationshipType": "DESCRIBES",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---33e7f42e-6a37-4176-a586-ca92ed57fc2c"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---5ace0c2a-43e4-4833-ae4f-5e7c10ea51f3"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---62d1bc5f-8d9d-4e6d-9528-5ac501dfdb6d"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---8b29e67b-d995-443c-99bd-df836f4c5bee"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---8bda8113-b091-45b8-98e7-5aa977d5d835"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---8d7ac7d6-f471-4808-91f2-66d47a376fd9"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---97b45a18-ddc0-4f76-917f-ac839abceffc"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---b49316ca-92ec-4d7c-8444-895c72fd10fb"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---b9f57b13-a11e-4f4a-8753-790fb91ca102"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---c6c32215-4abf-4eff-9085-82a281494494"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---c7323ee2-2e42-4c86-a26b-9bac5ce47996"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---e849bc9b-b2cf-4d77-852a-cc4fc573dc80"
+    },
+    {
+      "spdxElementId": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-package-8638de63-3970-4cb9-94fb-69ca05b3dc1f---f872a562-49f7-464f-a9a6-2ceb45966850"
+    }
+  ]
+}
